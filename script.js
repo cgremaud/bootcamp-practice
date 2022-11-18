@@ -1,5 +1,4 @@
 window.addEventListener("load", () => {
-    let name = "colyn";
     let greeterButton = document.getElementById("greeterButton")  
 
     greeterButton.addEventListener("click", () => {
